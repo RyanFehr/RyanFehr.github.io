@@ -1,3 +1,3 @@
 # RyanFehr.github.io
 
-This is the source code for my website hosted on ryanfehr.tech
+This is the source code for my website hosted here on Github
